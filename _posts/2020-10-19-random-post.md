@@ -1,5 +1,5 @@
 ---
-title: Nature's Sucky Blob
+title: "Nature's Sucky Blob"
 date: 2020-10-19
 ---
 
