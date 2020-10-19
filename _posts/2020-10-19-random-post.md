@@ -1,4 +1,7 @@
-# Nature's Sucky Blob
+---
+title: Nature's Sucky Blob
+date: 2020-10-19
+---
 
 This is an unusual animal with an octopus-like body. It is covered in moss, algae, and other plant life, and boasts a set of four thick tentacles.
 In addition, it possesses two large whiskers and an oddly human-like set of teeth and gums. It produces gas within its body in order to keep itself afloat.
