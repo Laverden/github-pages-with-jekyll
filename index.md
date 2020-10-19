@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+“A bank is a place that will lend you money if you can prove that you don’t need it.”
